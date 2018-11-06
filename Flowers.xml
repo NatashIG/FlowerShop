@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FlowerShop>
+ <flower flowerName = "Rose">
+   <flowerType>gardenFlower</flowerType>
+   <flowerColour>red</flowerColour>
+   <price>5</price>
+   <roseType>classic</roseType>
+ </flower>
+ <flower flowerName = "Tulip">
+   <flowerType>gardenFlower</flowerType>
+   <flowerColour>yellow</flowerColour>
+   <price>3</price>
+   <origin>NL</origin>
+ </flower>
+</FlowerShop>
